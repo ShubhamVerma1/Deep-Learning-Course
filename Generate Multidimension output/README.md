@@ -1,1 +1,1 @@
-# Deep-Learning-Course
+# Generate Multidimension output from Guassian Distribution.
